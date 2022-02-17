@@ -7,7 +7,7 @@ int main(int argc, char *argv[])
 	if (argc == 3)
 	{
 		printf("Well done\n");
-		printf("There was no purpose to this\n");
+		printf("There was no RATS in this\n");
 	}	
 	return (0);
 }	
