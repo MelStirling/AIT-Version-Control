@@ -2,5 +2,5 @@
 
 int main(void)
 {
-	write(1, "Rats\n", 3);
+	write(1, "Crying\n", 7);
 }
