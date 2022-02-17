@@ -1,10 +1,6 @@
 #include <stdio.h>
 
-int main(int argc, char *argv[])
+int main(void)
 {
-	if (argc != 2)
-		return (0);
-	if (argc == 2)
-		printf("%s\n", argv[1]);
-	return (0);
+	write(1, "Crying\n", 7);
 }
